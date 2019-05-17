@@ -144,5 +144,12 @@ public class MonsterHandler {
 		return "list";
 
 	}
+	
+	// request.setAttribute("pb", pb);
+		//
+		// return "list";
+		//
+		// }
+		//
 
 }
